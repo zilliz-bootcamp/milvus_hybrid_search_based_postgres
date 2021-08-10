@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Milvus-Based Hybrid Search of Vectors and Structured Data
 
 This solution provides an example of consolidating Milvus (vector database) and PostgreSQL (relational database) to carry out the hybrid search of vectors and structured data.
